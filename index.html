@@ -24,30 +24,33 @@
         </div>
         
         <audio controls controlsList="nodownload">
-                <source src="animals001.mp3" type="audio/mpeg">
+                <source src="content/animals001.mp3" type="audio/mpeg">
         </audio>
 
-        <form>
-            <div class="form-group" name="question">
-                <h1>Welcher Tier hören Sie?</h1>
-                <button type="button" class="btn btn-default btn-lg btn-block">Bär</button>
-                <button type="button" class="btn btn-default btn-lg btn-block">Tiger</button>
-                <button type="button" class="btn btn-default btn-lg btn-block">Löwe</button>
-                <button type="button" class="btn btn-default btn-lg btn-block">Leopard</button>
-            </div>
-        </form>
+        <h3 id=question>Hello</h3>
+
+        <div class=buttons>
+            <button id="btn0" type="button" class="btn btn-default btn-lg btn-block"><span id="choice0"></span></button>
+            <button id="btn1" type="button" class="btn btn-default btn-lg btn-block"><span id="choice1"></span></button>
+            <button id="btn2" type="button" class="btn btn-default btn-lg btn-block"><span id="choice2"></span></button>
+            <button id="btn3" type="button" class="btn btn-default btn-lg btn-block"><span id="choice3"></span></button>
+        </div>
+        
         <br>
         <hr>
+        
         <footer class="footer">
                 <p class="text-muted">
                     Blabla GmbH<br>
                     Blastrasse 65, 3000 Bern<br>
                     Kontakt: bla@bla.info<br>
-
                 </p>
         </footer>
 
     </div>
+    <script src="scripts/quiz_controller.js.js"></script>
+    <script src="scripts/question.js"></script>
+    <script src="scripts/app.js"></script>
 
 </body>
 </html>
