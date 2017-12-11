@@ -1,71 +1,3 @@
-function QuizItem(question, audio, variants, answer, enabled, replied, selectionOfUser) {
-    this.question = question;
-    this.audio = audio;
-    this.variants = variants;
-    this.answer = answer;
-    this.enabled = enabled;
-    this.replied = replied;
-    this.selectionOfUser = selectionOfUser;
-}
-
-var quizQuestions = [];
-quizQuestions[0] = new QuizItem(
-    "Javascript has:",
-    'animal01.mp3',
-    ["Function scope and block scope",
-        "Just block scope",
-        "Global and function scope",
-        "Only global scope"],
-    2, //Right answer
-    false,
-    false,
-    undefined);
-
-quizQuestions[1] = new QuizItem(
-    "Which of these is a working object?",
-    'animal01.mp3',
-    ["var obj = { car: \"ford\" ; color:green }",
-        "var obj = { car = \"ford\" , color = green }",
-        "var obj = { car: \"ford\" , color:green }",
-        "None of the above"],
-    2,
-    false,
-    false,
-    undefined);
-
-quizQuestions[2] = new QuizItem(
-    "Which of these is a working loop?",
-    'animal01.mp3',
-    ["for( i=0 i<10 i+=1) { console.log(i) }",
-        "for (i=0; i<10; i+=1) {console.log(i)}",
-        "for( i=0, i<10, i+=1) { console.log(i) }",
-        "if (i=0) { i+=1 }"],
-    1,
-    false,
-    false,
-    undefined);
-
-quizQuestions[3] = new QuizItem(
-    "What does this output:<br>'hello'!=123",
-    'animal01.mp3',
-    ["false", "true", "neither"],
-    1,
-    false,
-    false,
-    undefined);
-
-quizQuestions[4] = new QuizItem(
-    "var num = 10+''",
-    'animal01.mp3',
-    ["typeof num is number",
-        "typeof numb is boolean",
-        "typeof num is function",
-        "typeof num is string"],
-    3,
-    false,
-    false,
-    undefined);
-
 
 // pTag.innerHTML = test1.question;
 // console.log(quizQuestions[0]);
@@ -86,27 +18,36 @@ function showCurrentQuestion() {
     //parse into integer, because it interpretes it as a string
     var numQuestion = parseInt(currentIndex)+1;
     headerOfDropdow.getElementsByTagName('span')[0].innerHTML = numQuestion;
-    var pTag = document.getElementsByTagName('p')[0];
+    //var pTag = document.getElementsByTagName('p')[0];
     var audioSrc = document.getElementById('audiosrc');
      // console.log(liTags);
 
 
     var ulTag = document.getElementsByTagName('ul')[1];
     var liTags = ulTag.getElementsByTagName('li');
-    pTag.innerHTML = currentQuestion.question;
-    audioSrc.src = "content/audiofiles/"+ currentQuestion.audio;
-    for (var i=0; i < liTags.length; i++) {
+
+    //pTag.innerHTML = currentQuestion.question;
+
+    audioSrc.src = "content/audio/"+ currentQuestion.audio;
+
+    document.getElementById('answer0').src = "content/img" + currentQuestion.variants[0];
+    document.getElementById('answer1').src = "content/img" + currentQuestion.variants[1];
+    document.getElementById('answer2').src = "content/img" + currentQuestion.variants[2];
+    document.getElementById('answer3').src = "content/img" + currentQuestion.variants[3];
+
+
+    /*for (var i=0; i < liTags.length; i++) {
         //in case the number of variants is less than 4 (e.g. when it's
         // undefined) disable li tag
         if (currentQuestion.variants[i] == undefined) {
             console.log(currentQuestion.variants[i]);
             liTags[i].className = "doNotDisplay";
         } else {
-            console.log(currentQuestion.variants[i]);
-            liTags[i].innerHTML = currentQuestion.variants[i];//assign question
+            //console.log(currentQuestion.variants[i]);
+            liTags[i].getElementsByName('img').src = "content/img" + currentQuestion.variants[i]; //assign question
             liTags[i].className = "";
         }
-    }
+    }*/
 };
 
 enableLiOnClickEvents();

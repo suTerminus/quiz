@@ -2,395 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e09695a-ad83-489f-96cb-7a34f7e4e411" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.live/content/audio/animals001.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.demo/scripts/quizitem.js" />
+      <change beforePath="$PROJECT_DIR$/..template/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/..template/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/..template/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audiofiles/animal01.mp3" afterPath="$PROJECT_DIR$/.demo/content/audio/animal01.mp3" />
       <change beforePath="$PROJECT_DIR$/.demo/index.html" afterPath="$PROJECT_DIR$/.demo/index.html" />
-      <change beforePath="$PROJECT_DIR$/.demo/script.js" afterPath="$PROJECT_DIR$/..template/script.js" />
-      <change beforePath="$PROJECT_DIR$/.demo/style.css" afterPath="$PROJECT_DIR$/..template/style.css" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/.gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/.hound.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/CHANGELOG.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/CNAME" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/Gemfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/Gemfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/Gruntfile.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/ISSUE_TEMPLATE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/_config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/dist/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/browser-bugs.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/browser-features.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/core-team.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/glyphicons.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/sass-team.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/showcase.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_data/translations.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/ads.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/alerts.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/badges.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/button-groups.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/input-groups.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/labels.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/list-group.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/media.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/navbar.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/navs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/page-header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/pagination.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/panels.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/components/wells.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/buttons.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/code.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/forms.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/grid.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/helpers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/images.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/less.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/overview.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/sass.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/tables.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/css/type.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/customizer-variables.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/community.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/download.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/affix.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/alerts.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/buttons.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/carousel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/collapse.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/modal.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/overview.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/popovers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/tabs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/tooltips.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/js/transitions.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/components.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/css.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/customize.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/javascript.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/main.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_includes/nav/migration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_layouts/default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_layouts/home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_plugins/bridge.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_plugins/bugify.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/css/docs.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/css/src/docs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/components.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/devices.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/img/sass-less.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/customize.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/docs.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/src/application.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/src/customizer.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/browser-bugs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/components.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/css.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/customize.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/dist/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/blog/blog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/blog/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/carousel/carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/carousel/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/cover/cover.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/cover/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/dashboard/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/grid/grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/grid/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/jumbotron/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/justified-nav/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/navbar/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/navbar/navbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/non-responsive/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/offcanvas/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/signin/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/signin/signin.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/starter-template/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/theme/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/theme/theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/getting-started.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/javascript.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/migration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/docs/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/.jshintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/change-version.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/configBridge.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/grunt/sauce_browsers.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/.jscsrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/.jshintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/affix.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/alert.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/button.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/carousel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/collapse.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/dropdown.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/modal.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/popover.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/scrollspy.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tab.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/.jshintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/affix.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/alert.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/button.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/carousel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/collapse.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/dropdown.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/modal.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/phantom.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/popover.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/scrollspy.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/tab.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/unit/tooltip.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/vendor/qunit.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/vendor/qunit.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/affix.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/alert.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/button.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/carousel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/collapse.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/dropdown.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/modal.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/popover.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/scrollspy.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/tab.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tests/visual/tooltip.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/tooltip.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/js/transition.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/.csscomb.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/.csslintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/alerts.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/badges.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/bootstrap.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/breadcrumbs.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/button-groups.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/buttons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/carousel.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/close.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/code.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/component-animations.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/dropdowns.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/forms.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/glyphicons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/grid.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/input-groups.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/jumbotron.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/labels.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/list-group.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/media.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/alerts.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/background-variant.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/border-radius.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/buttons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/center-block.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/clearfix.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/forms.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/gradients.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/grid-framework.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/grid.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/hide-text.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/image.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/labels.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/list-group.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/nav-divider.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/opacity.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/pagination.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/panels.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/progress-bar.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/reset-filter.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/reset-text.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/resize.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/responsive-visibility.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/size.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/tab-focus.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/table-row.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/text-emphasis.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/text-overflow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/modals.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/navbar.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/navs.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/normalize.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/pager.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/pagination.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/panels.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/popovers.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/print.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/progress-bars.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/responsive-embed.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/responsive-utilities.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/scaffolding.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/tables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/theme.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/thumbnails.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/tooltip.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/type.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/utilities.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/less/wells.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/nuget/MyGet.ps1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/nuget/bootstrap.nuspec" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/package.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/bootstrap-3.3.7/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.demo/stylesheets/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.demo/scripts/script.js" afterPath="$PROJECT_DIR$/.demo/scripts/script.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/style.css" afterPath="$PROJECT_DIR$/.demo/style/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.template/index.html" afterPath="$PROJECT_DIR$/..template/index.html" />
-      <change beforePath="$PROJECT_DIR$/.template/script.js" afterPath="$PROJECT_DIR$/.demo/scripts/script.js" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/.live/README.md" />
-      <change beforePath="$PROJECT_DIR$/content/audio/animals001.mp3" afterPath="$PROJECT_DIR$/.demo/content/audiofiles/animal01.mp3" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/.live/index.html" />
-      <change beforePath="$PROJECT_DIR$/scripts/app.js" afterPath="$PROJECT_DIR$/.live/scripts/app.js" />
-      <change beforePath="$PROJECT_DIR$/scripts/question.js" afterPath="$PROJECT_DIR$/.live/scripts/question.js" />
-      <change beforePath="$PROJECT_DIR$/scripts/quiz_controller.js" afterPath="$PROJECT_DIR$/.live/scripts/quiz_controller.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -403,14 +23,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5653236">
+    <splitter split-orientation="horizontal" split-proportion="0.4882353">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="250" column="25" lean-forward="true" selection-start-line="250" selection-start-column="25" selection-end-line="250" selection-end-column="25" />
+                <state relative-caret-position="1955">
+                  <caret line="115" column="49" lean-forward="true" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.demo/style/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="646">
+                  <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="quizitem.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.demo/scripts/quizitem.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
@@ -419,22 +59,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/.demo/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="" pinned="false" current-in-tab="true">
-            <entry file="mock:///">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+                <state relative-caret-position="629">
+                  <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -457,6 +87,7 @@
       <find>enabled</find>
       <find>question</find>
       <find>quizQuestions</find>
+      <find>ul</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -475,8 +106,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.template/index.html" />
         <option value="$PROJECT_DIR$/.demo/script.js" />
-        <option value="$PROJECT_DIR$/.demo/index.html" />
         <option value="$PROJECT_DIR$/.demo/scripts/script.js" />
+        <option value="$PROJECT_DIR$/.demo/scripts/quizitem.js" />
+        <option value="$PROJECT_DIR$/.demo/index.html" />
+        <option value="$PROJECT_DIR$/.demo/style/style.css" />
       </list>
     </option>
   </component>
@@ -510,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -517,17 +151,74 @@
               <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
               <item name="quiz" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="audio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="question00" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="question01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".demo" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name=".live" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.demo/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
@@ -581,11 +272,12 @@
       <updated>1512354330544</updated>
       <workItem from="1512354332282" duration="2067000" />
       <workItem from="1512987655250" duration="9836000" />
+      <workItem from="1513018120653" duration="10776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11903000" />
+    <option name="totallyTimeSpent" value="22679000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -597,20 +289,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1369863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1938883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298077" sideWeight="0.43308747" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1378579" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15173867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49367756" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.49367756" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -618,6 +310,25 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298077" sideWeight="0.43308747" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1378579" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20677084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15173867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49367756" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -630,6 +341,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="250" column="25" lean-forward="true" selection-start-line="250" selection-start-column="25" selection-end-line="250" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.live/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -642,7 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,54 +408,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/GitRepostemplate/style.css" />
+    <entry file="file://D:/GitRepostemplate/script.js" />
+    <entry file="file://D:/GitRepostemplate/index.html" />
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/blue.monday/demo-01-android.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/..template/style.css">
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/pink.flag/demo-01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="132" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/..template/script.js">
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/blue.monday/demo-08.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="258" column="33" lean-forward="true" selection-start-line="258" selection-start-column="33" selection-end-line="258" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/..template/index.html">
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/blue.monday/demo-02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/blue.monday/demo-01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/other/demo-07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/other/demo-05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/other/demo-04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.live/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="250" column="25" lean-forward="true" selection-start-line="250" selection-start-column="25" selection-end-line="250" selection-end-column="25" />
+        <state relative-caret-position="1955">
+          <caret line="115" column="49" lean-forward="true" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/scripts/quizitem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.demo/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
           <folding />
         </state>
       </provider>

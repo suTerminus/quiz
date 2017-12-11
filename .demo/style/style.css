@@ -14,13 +14,29 @@ body {
     font-size: 2em;
 }
 
+th {
+    width: 40%;
+}
+
+tr {
+    width: 90%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
 ul {
     list-style: none;
+    border: solid transparent;
 }
 li {
     text-decoration: none;
     border: 1px solid lightgray;
     margin:10px;
+    width: 100%;
     padding: 10px;
 }
 
