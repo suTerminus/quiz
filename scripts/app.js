@@ -21,6 +21,7 @@ function populate() {
 
 var questions = [
     new Question(["Bär","Tiger","Amsel","Renntier"], "Bär"),
+    new Question(["Forelle","Schildkrötte","Frosh","Katze"], "Frosh"),
     new Question(["Forelle","Schildkrötte","Frosh","Katze"], "Frosh")
 ];
 
