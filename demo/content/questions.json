@@ -1,0 +1,66 @@
+{
+    "config": {
+        "answersRandomized": false,
+        "amountChoices": 4
+    },
+    "questions": [
+        {
+            "question": "Welches Tier hören Sie:",
+            "folder": "animals",
+            "sound": {
+                "id": 0
+            },
+            "answers": [
+                {
+                    "pictureId": 0,
+                    "name": "bla1",
+                    "isCorrect": false
+                },
+                {
+                    "pictureId": 1,
+                    "name": "bla2",
+                    "isCorrect": false
+                },
+                {
+                    "pictureId": 2,
+                    "name": "bla3",
+                    "isCorrect": false
+                },
+                {
+                    "pictureId": 3,
+                    "name": "bla4",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "Welches Tier hören Sie:",
+            "folder": "animals",
+            "sound": {
+                "id": 1
+            },
+            "answers": [
+                {
+                    "pictureId": 4,
+                    "name": "bla4",
+                    "isCorrect": false
+                },
+                {
+                    "pictureId": 5,
+                    "name": "bla5",
+                    "isCorrect": false
+                },
+                {
+                    "pictureId": 6,
+                    "name": "bla6",
+                    "isCorrect": false
+                },
+                {
+                    "pictureId": 7,
+                    "name": "bla7",
+                    "isCorrect": true
+                }
+            ]
+        }
+    ]
+}

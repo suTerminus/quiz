@@ -1,0 +1,35 @@
+// {
+//     "config":{
+//         "answersRandomized": true,
+//         "amountPossibleResults":10,
+//         "amountChoices": 4
+//     },
+//     "questions": [
+//         {
+//             "question": "Welches Tier hören Sie:",
+//             "folder": "animals",
+//             "sound": {
+//                 "id": 0
+//             },
+// "answers": [
+//     {
+//         "pictureId": 0,
+//         "name": "bla1"
+// }
+// ]
+//         },
+//         {
+//             "question": "Welches Tier hören Sie:",
+//             "folder": "animals",
+//             "sound": {
+//                 "id": 0
+//             },
+// "answers": [
+//     {
+//         "pictureId": 0,
+//         "name": "bla1"
+//     }
+// ]
+//         }
+//     ]
+// }
