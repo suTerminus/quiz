@@ -14,23 +14,14 @@ body {
     font-size: 2em;
 }
 
-th {
-    width: 40%;
-}
-
-tr {
-    width: 90%;
-}
-
 img {
-    display: block;
-    margin: auto;
-    width: 50%;
+    width: 40%;
 }
 
 ul {
     list-style: none;
     border: solid transparent;
+    width: 40%;
 }
 li {
     text-decoration: none;

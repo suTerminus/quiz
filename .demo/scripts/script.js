@@ -28,7 +28,10 @@ function showCurrentQuestion() {
 
     //pTag.innerHTML = currentQuestion.question;
 
+
     audioSrc.src = "content/audio/"+ currentQuestion.audio;
+    document.getElementById('audio').load();
+
 
     document.getElementById('answer0').src = "content/img" + currentQuestion.variants[0];
     document.getElementById('answer1').src = "content/img" + currentQuestion.variants[1];
@@ -36,7 +39,7 @@ function showCurrentQuestion() {
     document.getElementById('answer3').src = "content/img" + currentQuestion.variants[3];
 
 
-    /*for (var i=0; i < liTags.length; i++) {
+    for (var i=0; i < liTags.length; i++) {
         //in case the number of variants is less than 4 (e.g. when it's
         // undefined) disable li tag
         if (currentQuestion.variants[i] == undefined) {
@@ -44,10 +47,10 @@ function showCurrentQuestion() {
             liTags[i].className = "doNotDisplay";
         } else {
             //console.log(currentQuestion.variants[i]);
-            liTags[i].getElementsByName('img').src = "content/img" + currentQuestion.variants[i]; //assign question
+            liTags[i].querySelector("img").src = "content/img" + currentQuestion.variants[i]; //assign question
             liTags[i].className = "";
         }
-    }*/
+    }
 };
 
 enableLiOnClickEvents();
