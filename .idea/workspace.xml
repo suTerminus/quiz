@@ -2,10 +2,840 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e09695a-ad83-489f-96cb-7a34f7e4e411" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.demo/index.html" afterPath="$PROJECT_DIR$/.demo/index.html" />
-      <change beforePath="$PROJECT_DIR$/.demo/scripts/script.js" afterPath="$PROJECT_DIR$/.demo/scripts/script.js" />
-      <change beforePath="$PROJECT_DIR$/.demo/style/style.css" afterPath="$PROJECT_DIR$/.demo/style/style.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal00.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal01.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal02.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal03.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal04.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal05.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/audio/animal06.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question00/answer00.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question00/answer01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question00/answer02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question00/answer03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question01/answer00.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question01/answer01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question01/answer02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question01/answer03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question02/Falsche Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question02/Falsche Antwort2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question02/Falsche Antwort3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question02/Richtige Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question03/Falsche Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question03/Falsche Antwort2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question03/Falsche Antwort3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question03/Richtige Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question04/Falsche Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question04/Falsche Antwort2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question04/Falsche Antwort3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question04/Richtige Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question05/FAlsche Antwort3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question05/Falsche Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question05/Falsche Antwort2_.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question05/Richtige Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question06/Falsche Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question06/Falsche Antwort2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question06/Falsche Antwort3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/content/img/question06/Richtige Antwort.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/scripts/quizitem.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/scripts/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/.hound.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/CNAME" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/Gemfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/Gemfile.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/ISSUE_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/_config.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/browser-bugs.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/browser-features.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/core-team.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/glyphicons.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/sass-team.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/showcase.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_data/translations.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/ads.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/alerts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/badges.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/button-groups.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/input-groups.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/labels.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/list-group.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/media.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/navbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/navs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/page-header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/pagination.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/panels.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/components/wells.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/code.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/forms.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/helpers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/images.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/less.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/overview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/sass.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/tables.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/css/type.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/customizer-variables.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/community.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/download.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/license.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/affix.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/alerts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/carousel.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/collapse.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/overview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/popovers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/tooltips.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/js/transitions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/components.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/css.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/customize.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/javascript.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/main.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_includes/nav/migration.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_layouts/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_layouts/home.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_plugins/bridge.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_plugins/bugify.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/apple-touch-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/css/docs.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/css/src/docs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/components.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/devices.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/img/sass-less.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/customize.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/docs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/src/application.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/src/customizer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/browser-bugs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/components.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/css.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/customize.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/blog/blog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/blog/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/carousel/carousel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/carousel/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/cover/cover.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/cover/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/dashboard/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/grid/grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/grid/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/jumbotron/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/justified-nav/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/navbar/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/navbar/navbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/non-responsive/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/offcanvas/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/signin/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/signin/signin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/starter-template/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/theme/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/theme/theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/getting-started.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/javascript.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/migration.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/docs/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/change-version.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/configBridge.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/grunt/sauce_browsers.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/.jscsrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/affix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/affix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/phantom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/unit/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/vendor/qunit.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/vendor/qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/affix.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/alert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/button.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/carousel.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/collapse.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/dropdown.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/popover.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/scrollspy.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/tab.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tests/visual/tooltip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/js/transition.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/.csscomb.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/.csslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/alerts.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/badges.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/bootstrap.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/breadcrumbs.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/button-groups.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/buttons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/carousel.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/close.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/code.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/component-animations.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/dropdowns.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/forms.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/glyphicons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/grid.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/input-groups.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/jumbotron.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/labels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/list-group.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/media.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/alerts.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/background-variant.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/border-radius.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/buttons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/center-block.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/clearfix.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/forms.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/gradients.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/grid-framework.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/grid.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/hide-text.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/image.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/labels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/list-group.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/nav-divider.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/opacity.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/pagination.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/panels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/progress-bar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/reset-filter.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/reset-text.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/resize.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/responsive-visibility.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/size.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/tab-focus.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/table-row.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/text-emphasis.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/text-overflow.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/modals.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/navbar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/navs.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/normalize.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/pager.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/pagination.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/panels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/popovers.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/print.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/progress-bars.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/responsive-embed.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/responsive-utilities.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/scaffolding.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/tables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/theme.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/thumbnails.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/tooltip.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/type.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/utilities.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/less/wells.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/nuget/MyGet.ps1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/nuget/bootstrap.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/package.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/bootstrap-3.3.7/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live/style/style.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal00.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal00.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal01.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal01.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal02.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal02.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal03.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal03.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal04.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal04.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal05.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal05.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/audio/animal06.mp3" afterPath="$PROJECT_DIR$/demo/content/audio/animal06.mp3" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question00/answer00.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question00/answer00.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question00/answer01.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question00/answer01.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question00/answer02.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question00/answer02.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question00/answer03.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question00/answer03.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question01/answer00.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question01/answer00.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question01/answer01.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question01/answer01.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question01/answer02.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question01/answer02.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question01/answer03.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question01/answer03.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question02/Falsche Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question02/Falsche Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question02/Falsche Antwort2.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question02/Falsche Antwort2.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question02/Falsche Antwort3.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question02/Falsche Antwort3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question02/Richtige Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question02/Richtige Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question03/Falsche Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question03/Falsche Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question03/Falsche Antwort2.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question03/Falsche Antwort2.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question03/Falsche Antwort3.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question03/Falsche Antwort3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question03/Richtige Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question03/Richtige Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question04/Falsche Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question04/Falsche Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question04/Falsche Antwort2.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question04/Falsche Antwort2.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question04/Falsche Antwort3.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question04/Falsche Antwort3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question04/Richtige Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question04/Richtige Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question05/FAlsche Antwort3.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question05/FAlsche Antwort3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question05/Falsche Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question05/Falsche Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question05/Falsche Antwort2_.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question05/Falsche Antwort2_.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question05/Richtige Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question05/Richtige Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question06/Falsche Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question06/Falsche Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question06/Falsche Antwort2.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question06/Falsche Antwort2.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question06/Falsche Antwort3.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question06/Falsche Antwort3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/content/img/question06/Richtige Antwort.jpg" afterPath="$PROJECT_DIR$/demo/content/img/question06/Richtige Antwort.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/index.html" afterPath="$PROJECT_DIR$/demo/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/scripts/quizitem.js" afterPath="$PROJECT_DIR$/demo/scripts/quizitem.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/scripts/script.js" afterPath="$PROJECT_DIR$/demo/scripts/script.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/.editorconfig" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/.editorconfig" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/.gitattributes" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/.gitattributes" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/.gitignore" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/.hound.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/.hound.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/.travis.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/CHANGELOG.md" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/CNAME" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/CNAME" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/CONTRIBUTING.md" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/Gemfile" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/Gemfile" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/Gemfile.lock" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/Gemfile.lock" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/Gruntfile.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/Gruntfile.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/ISSUE_TEMPLATE.md" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/LICENSE" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/README.md" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/README.md" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/_config.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/bower.json" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/bower.json" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/composer.json" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/composer.json" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/dist/js/npm.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/dist/js/npm.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/LICENSE" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/browser-bugs.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/browser-bugs.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/browser-features.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/browser-features.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/core-team.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/core-team.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/glyphicons.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/glyphicons.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/sass-team.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/sass-team.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/showcase.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/showcase.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_data/translations.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_data/translations.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/ads.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/ads.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/alerts.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/alerts.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/badges.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/badges.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/button-groups.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/button-groups.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/input-groups.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/input-groups.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/labels.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/labels.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/list-group.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/list-group.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/media.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/media.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/navbar.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/navbar.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/navs.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/navs.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/page-header.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/page-header.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/pagination.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/pagination.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/panels.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/panels.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/components/wells.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/components/wells.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/buttons.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/buttons.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/code.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/code.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/forms.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/forms.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/grid.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/grid.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/helpers.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/helpers.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/images.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/images.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/less.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/less.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/overview.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/overview.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/sass.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/sass.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/tables.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/tables.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/css/type.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/css/type.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/customizer-variables.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/customizer-variables.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/footer.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/footer.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/community.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/community.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/download.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/download.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/license.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/license.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/template.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/template.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/header.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/header.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/affix.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/affix.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/alerts.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/alerts.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/buttons.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/buttons.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/carousel.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/carousel.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/collapse.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/collapse.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/modal.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/modal.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/overview.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/overview.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/popovers.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/popovers.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/tabs.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/tabs.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/tooltips.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/tooltips.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/js/transitions.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/js/transitions.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/about.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/about.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/components.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/components.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/css.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/css.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/customize.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/customize.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/javascript.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/javascript.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/main.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/main.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_includes/nav/migration.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_includes/nav/migration.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_layouts/default.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_layouts/default.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_layouts/home.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_layouts/home.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_plugins/bridge.rb" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_plugins/bridge.rb" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_plugins/bugify.rb" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_plugins/bugify.rb" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/about.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/about.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/apple-touch-icon.png" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/apple-touch-icon.png" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/css/docs.min.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/css/docs.min.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/css/src/docs.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/css/src/docs.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/components.png" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/components.png" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/devices.png" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/devices.png" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/img/sass-less.png" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/img/sass-less.png" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/customize.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/customize.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/docs.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/docs.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/src/application.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/src/application.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/src/customizer.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/src/customizer.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/browser-bugs.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/browser-bugs.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/components.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/components.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/css.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/css.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/customize.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/customize.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/dist/js/npm.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/dist/js/npm.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/blog/blog.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/blog/blog.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/blog/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/blog/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/carousel/carousel.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/carousel/carousel.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/carousel/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/carousel/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/cover/cover.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/cover/cover.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/cover/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/cover/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/dashboard/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/dashboard/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/grid/grid.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/grid/grid.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/grid/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/grid/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/jumbotron/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/jumbotron/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/justified-nav/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/justified-nav/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/navbar/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/navbar/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/navbar/navbar.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/navbar/navbar.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/non-responsive/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/non-responsive/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/offcanvas/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/offcanvas/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/signin/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/signin/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/signin/signin.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/signin/signin.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/starter-template/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/starter-template/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/theme/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/theme/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/theme/theme.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/theme/theme.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/favicon.ico" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/getting-started.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/getting-started.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/javascript.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/javascript.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/migration.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/migration.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/docs/robots.txt" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/docs/robots.txt" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/.jshintrc" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/.jshintrc" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/change-version.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/change-version.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/configBridge.json" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/configBridge.json" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/grunt/sauce_browsers.yml" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/grunt/sauce_browsers.yml" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/.jscsrc" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/.jscsrc" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/.jshintrc" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/.jshintrc" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/affix.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/affix.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/alert.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/alert.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/button.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/button.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/carousel.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/carousel.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/collapse.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/collapse.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/dropdown.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/dropdown.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/modal.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/modal.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/popover.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/popover.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/scrollspy.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/scrollspy.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tab.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tab.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/README.md" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/README.md" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/index.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/index.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/.jshintrc" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/.jshintrc" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/affix.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/affix.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/alert.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/alert.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/button.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/button.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/carousel.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/carousel.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/collapse.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/collapse.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/dropdown.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/dropdown.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/modal.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/modal.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/phantom.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/phantom.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/popover.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/popover.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/scrollspy.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/scrollspy.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/tab.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/tab.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/unit/tooltip.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/unit/tooltip.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/vendor/qunit.css" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/vendor/qunit.css" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/vendor/qunit.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/vendor/qunit.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/affix.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/affix.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/alert.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/alert.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/button.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/button.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/carousel.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/carousel.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/collapse.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/collapse.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/dropdown.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/dropdown.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/modal.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/modal.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/popover.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/popover.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/scrollspy.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/scrollspy.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/tab.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/tab.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tests/visual/tooltip.html" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tests/visual/tooltip.html" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/tooltip.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/tooltip.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/js/transition.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/js/transition.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/.csscomb.json" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/.csscomb.json" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/.csslintrc" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/.csslintrc" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/alerts.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/alerts.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/badges.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/badges.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/bootstrap.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/bootstrap.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/breadcrumbs.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/button-groups.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/button-groups.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/buttons.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/buttons.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/carousel.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/carousel.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/close.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/close.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/code.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/code.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/component-animations.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/component-animations.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/dropdowns.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/dropdowns.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/forms.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/forms.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/glyphicons.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/glyphicons.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/grid.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/grid.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/input-groups.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/input-groups.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/jumbotron.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/jumbotron.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/labels.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/labels.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/list-group.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/list-group.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/media.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/media.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/alerts.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/background-variant.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/border-radius.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/buttons.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/center-block.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/clearfix.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/forms.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/forms.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/gradients.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/grid-framework.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/grid.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/grid.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/hide-text.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/image.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/image.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/labels.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/labels.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/list-group.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/nav-divider.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/opacity.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/pagination.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/panels.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/panels.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/progress-bar.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/reset-filter.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/reset-text.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/resize.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/resize.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/responsive-visibility.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/size.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/size.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/tab-focus.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/table-row.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/text-emphasis.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/text-overflow.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/modals.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/modals.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/navbar.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/navbar.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/navs.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/navs.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/normalize.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/normalize.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/pager.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/pager.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/pagination.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/pagination.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/panels.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/panels.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/popovers.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/popovers.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/print.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/print.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/progress-bars.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/progress-bars.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/responsive-embed.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/responsive-embed.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/responsive-utilities.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/scaffolding.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/scaffolding.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/tables.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/tables.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/theme.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/theme.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/thumbnails.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/thumbnails.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/tooltip.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/tooltip.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/type.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/type.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/utilities.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/utilities.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/variables.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/variables.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/less/wells.less" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/less/wells.less" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/nuget/MyGet.ps1" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/nuget/MyGet.ps1" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/nuget/bootstrap.nuspec" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/nuget/bootstrap.nuspec" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/package.js" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/package.js" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/bootstrap-3.3.7/package.json" afterPath="$PROJECT_DIR$/demo/style/bootstrap-3.3.7/package.json" />
+      <change beforePath="$PROJECT_DIR$/.demo/style/style.css" afterPath="$PROJECT_DIR$/demo/style/style.css" />
+      <change beforePath="$PROJECT_DIR$/.live/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.live/content/audio/animals001.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.live/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.live/scripts/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.live/scripts/question.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.live/scripts/quiz_controller.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,17 +852,17 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
+            <entry file="file://$PROJECT_DIR$/demo/scripts/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="740">
-                  <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+                <state relative-caret-position="769">
+                  <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.demo/style/style.css">
+            <entry file="file://$PROJECT_DIR$/demo/style/style.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="289">
                   <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="16" />
@@ -42,10 +872,10 @@
             </entry>
           </file>
           <file leaf-file-name="quizitem.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.demo/scripts/quizitem.js">
+            <entry file="file://$PROJECT_DIR$/demo/scripts/quizitem.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="323">
-                  <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+                  <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -56,10 +886,10 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.demo/index.html">
+            <entry file="file://$PROJECT_DIR$/demo/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="68">
-                  <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+                  <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -148,64 +978,6 @@
               <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
               <item name="quiz" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="question00" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="question01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".demo" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name=".live" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -219,16 +991,17 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kst0272\gitrepos\quiz\.demo\audiofiles" />
-      <recent name="C:\Users\kst0272\gitrepos\quiz" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kst0272\gitrepos\quiz\.demo\content" />
       <recent name="C:\Users\kst0272\gitrepos\quiz\.demo\stylesheets" />
       <recent name="C:\Users\kst0272\gitrepos\quiz\.demo\scripts" />
       <recent name="C:\Users\kst0272\gitrepos\quiz\.live" />
       <recent name="C:\Users\kst0272\gitrepos\quiz\content\audio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitRepos\quiz\live" />
+      <recent name="C:\Users\kst0272\gitrepos\quiz\.demo\audiofiles" />
+      <recent name="C:\Users\kst0272\gitrepos\quiz" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,12 +1043,12 @@
       <workItem from="1512354332282" duration="2067000" />
       <workItem from="1512987655250" duration="9836000" />
       <workItem from="1513018120653" duration="11078000" />
-      <workItem from="1513198881555" duration="1679000" />
+      <workItem from="1513198881555" duration="1892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24660000" />
+    <option name="totallyTimeSpent" value="24873000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -288,9 +1061,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1938883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1938883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298077" sideWeight="0.43308747" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1378579" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
@@ -339,7 +1111,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
+    <entry file="file://$PROJECT_DIR$/demo/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1955">
           <caret line="115" column="49" lean-forward="false" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
@@ -347,7 +1119,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/scripts/quizitem.js">
+    <entry file="file://$PROJECT_DIR$/demo/scripts/quizitem.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
@@ -355,7 +1127,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/style/style.css">
+    <entry file="file://$PROJECT_DIR$/demo/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
@@ -363,7 +1135,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/index.html">
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -371,7 +1143,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
+    <entry file="file://$PROJECT_DIR$/demo/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4250">
           <caret line="250" column="25" lean-forward="true" selection-start-line="250" selection-start-column="25" selection-end-line="250" selection-end-column="25" />
@@ -379,7 +1151,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/index.html">
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -387,21 +1159,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/index.html">
+    <entry file="file://$PROJECT_DIR$/live/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/live/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/scripts/question.js">
+    <entry file="file://$PROJECT_DIR$/live/scripts/question.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -409,7 +1181,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/scripts/quiz_controller.js">
+    <entry file="file://$PROJECT_DIR$/live/scripts/quiz_controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
@@ -417,7 +1189,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/scripts/quiz_controller.js">
+    <entry file="file://$PROJECT_DIR$/live/scripts/quiz_controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
@@ -425,7 +1197,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/scripts/question.js">
+    <entry file="file://$PROJECT_DIR$/live/scripts/question.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
@@ -433,7 +1205,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.live/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/live/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -451,22 +1223,22 @@
     <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/other/demo-07.html" />
     <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/other/demo-05.html" />
     <entry file="file://$PROJECT_DIR$/.demo/jPlayer-2.9.2/examples/other/demo-04.html" />
-    <entry file="file://$PROJECT_DIR$/.live/index.html">
+    <entry file="file://$PROJECT_DIR$/live/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="17" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/scripts/quizitem.js">
+    <entry file="file://$PROJECT_DIR$/demo/scripts/quizitem.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/style/style.css">
+    <entry file="file://$PROJECT_DIR$/demo/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="16" />
@@ -474,18 +1246,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/index.html">
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.demo/scripts/script.js">
+    <entry file="file://$PROJECT_DIR$/demo/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        <state relative-caret-position="769">
+          <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
           <folding />
         </state>
       </provider>

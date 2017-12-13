@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Quiz</title>
+    <!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'> -->
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <!--Source: https://codepen.io/anon/pen/eyOEJO?limit=all&page=4&q=quiz-->
+</head>
+<body>
+<div class="main">
+
+    <div class="wrapper" onclick="showDropdown()">
+        <span>1</span>/
+        <span>5</span>
+    </div>
+    <ul class="dropdown">
+        <li>Question <span>1</span></li>
+        <li>Question <span>2</span></li>
+        <li>Question <span>3</span></li>
+        <li>Question <span>4</span></li>
+        <li>Question <span>5</span></li>
+    </ul>
+    <p class="question"></p>
+    <audio id="audio" controls controlsList="nodownload">
+        <source id="audiosrc" src="" type="audio/mpeg">
+    </audio>
+    <ul>
+        <li><img id="answer0" src="" ></li>
+        <li><img id="answer1" src=""></li>
+        <li><img id="answer2" src=""></li>
+        <li><img id="answer3" src=""></li>
+    </ul>
+    <button class="submit">Submit</button>
+</div>
+<script src="scripts/quizitem.js"></script>
+<script src="scripts/script.js"></script>
+</body>
+</html>
