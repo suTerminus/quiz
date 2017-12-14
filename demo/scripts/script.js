@@ -1,359 +1,270 @@
-function loadQuestions() {
-    fetch("../content/questions.json").then(response => {
-        return response.json()
-    })
-    .catch(err => {
-        debugger;
-    })
-    .then(res => {
-        debugger;
-    })
-}
+class Helper {
+    load(path) {
+        return new Promise((resolve, reject) => {
+            fetch(path).then(response => resolve(response.json()))
+                .catch(error => {
+                    throw new Error(error);
+                    reject();
+                })
+        })
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// pTag.innerHTML = test1.question;
-// console.log(quizQuestions[0]);
-var currentIndex = 0, numOfAnswered = 0;
-var currentQuestion = quizQuestions[currentIndex];
-//second ulTag
-
-var ulTag = document.getElementsByTagName('ul')[1];
-var liTags = ulTag.getElementsByTagName('li');
-
-/*
-	this function inserts the current question into the layout
-	of the page: p tag which is a question and ul tag meaning
-	an options
-*/
-function showCurrentQuestion() {
-    loadQuestions()
-    var headerOfDropdow = document.getElementsByClassName('wrapper')[0];
-    //parse into integer, because it interpretes it as a string
-    var numQuestion = parseInt(currentIndex) + 1;
-    headerOfDropdow.getElementsByTagName('span')[0].innerHTML = numQuestion;
-    //var pTag = document.getElementsByTagName('p')[0];
-    var audioSrc = document.getElementById('audiosrc');
-    // console.log(liTags);
-
-
-    var ulTag = document.getElementsByTagName('ul')[1];
-    var liTags = ulTag.getElementsByTagName('li');
-
-    //pTag.innerHTML = currentQuestion.question;
-
-
-    audioSrc.src = "content/audio/" + currentQuestion.audio;
-    document.getElementById('audio').load();
-
-
-    document.getElementById('answer0').src = "content/img" + currentQuestion.variants[0];
-    document.getElementById('answer1').src = "content/img" + currentQuestion.variants[1];
-    document.getElementById('answer2').src = "content/img" + currentQuestion.variants[2];
-    document.getElementById('answer3').src = "content/img" + currentQuestion.variants[3];
-
-
-    for (var i = 0; i < liTags.length; i++) {
-        //in case the number of variants is less than 4 (e.g. when it's
-        // undefined) disable li tag
-        if (currentQuestion.variants[i] == undefined) {
-            console.log(currentQuestion.variants[i]);
-            liTags[i].className = "doNotDisplay";
-        } else {
-            //console.log(currentQuestion.variants[i]);
-            liTags[i].querySelector("img").src = "content/img" + currentQuestion.variants[i]; //assign question
-            liTags[i].className = "";
+    shuffle(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
         }
+        return array;
     }
-};
-
-enableLiOnClickEvents();
-showCurrentQuestion();
-
-//when a variant is selected it becomes highlighted
-function changeLiStyle() {
-    var selectedItem = document.getElementsByClassName('selected')[0];
-    //disable previously selected item and enable the clicked one
-    if (selectedItem) selectedItem.className = "";
-    this.className = "selected";
 }
 
+class Game extends Helper {
+    constructor() {
+        super();
 
-//self-invoking function to find all li tags
-// and assing them text from the object
-// and assign event listeners
-function enableLiOnClickEvents() {
-    for (var i = 0; i < liTags.length; i++) {
-        console.log(liTags[i]);
-        liTags[i].onclick = changeLiStyle;
+        this.load("../content/questions.json")
+            .then(response => {
+                this.game = response;
+
+                this.board = document.createElement("div");
+
+                this.init();
+            })
+            .catch(error => this.showError())
     }
-};
 
-var button = document.getElementsByClassName('submit')[0];
-button.onclick = submitAndCheckAnswer;
+    init() {
+        // do some shit
+        if (this.game.questions.length > 0) {
+            this.game.atQuestion = 0;
+            this.game.lastQuestion = this.game.questions.length;
+            this.game.trackRecord = [];
 
-function submitAndCheckAnswer() {
-    var selectedItem = document.getElementsByClassName('selected')[0];
-    /*	console.log(selectedItem.innerHTML);*/
-    if (selectedItem == undefined)
-        alert("There is no variant selected! Please select any!");
-    else {
-        currentQuestion.enabled = true;
-        if (selectedItem.innerHTML == currentQuestion.variants[currentQuestion.answer]) {
+            // this.game.questions = this.shuffle(this.game.questions);
+            this.nextQuestion();
 
-            console.log("Correct " + currentQuestion.variants.indexOf(selectedItem.innerHTML));
-            changeTheLayoutAccordingTheResult(selectedItem, "correct", true);
-            checkIfTheLastQuestion(this);//sending button obj as a parameter
-            numOfAnswered++;
+            document.getElementById("game-board").appendChild(this.board);
 
         } else {
-
-            console.log("Wrong!");
-            changeTheLayoutAccordingTheResult(selectedItem, "wrong", false);
-            checkIfTheLastQuestion(this);
-            liTags[currentQuestion.answer].className = "correct";
+            // some error
+            this.showError();
         }
     }
-}
-
-function changeTheLayoutAccordingTheResult(selectedItem, result, replied) {
-    console.log(result);
-    currentQuestion.replied = replied;
-    //the index corresponding to the selection of user is selectiOfUser
-    currentQuestion.selectionOfUser = currentQuestion.variants.indexOf(selectedItem.innerHTML);
-    selectedItem.className = result;//changing color of selected item by changing className
-    disableLiOnClickEvents();//cannot click on the other litags anymore
-}
-
-//if the current question is the last one then change button style
-//and onclick event(function)
-//to finalize, otherwise continue to the next question
-function checkIfTheLastQuestion(button) {
-    console.log("currentIndex: ", currentIndex);
-    if (currentIndex == quizQuestions.length - 1) {
-        console.log(currentIndex + " " + quizQuestions.length);
-        button.className = "finalize";//change the color
-        button.innerHTML = "Finalize";
-        button.onclick = finalize;//change event listener
-    } else {
-        console.log(currentIndex + "fdsf " + quizQuestions.length);
-        currentIndex++;
-        button.innerHTML = "Next Question";
-        button.className = "next";
-        button.onclick = goToNextQuestion;
-    }
-}
-
-function disableLiOnClickEvents() {
-    for (var i = 0; i < liTags.length; i++) {
-        liTags[i].onclick = "";
-    }
-}
-
-function goToNextQuestion() {
-    // if (currentIndex == quizQuestions.length) {
-    // 	finalize();
-    // 	return alert("Quiz is over. Your result: " + numOfAnswered);
-    // }
-    //changes the current question index before moving to the next one
-    currentQuestion = quizQuestions[currentIndex];
-    //change button's label and event handler
-    this.innerHTML = "Submit";
-    this.onclick = submitAndCheckAnswer;
-    this.className = "submit";
-    showCurrentQuestion();
-    enableLiOnClickEvents();
-}
-
-function cleanUpTheLayout() {
-    var mainDiv = document.getElementsByClassName('main')[0];
-    // deleting all child nodes
-    while (mainDiv.hasChildNodes()) {
-        mainDiv.removeChild(mainDiv.firstChild);
-    }
-    console.log("clean UPP!!");
-}
-
-function finalize() {
-    cleanUpTheLayout();
-    var mainDiv = document.getElementsByClassName('main')[0];
-    var tHeader = document.createElement("p");
-    tHeader.appendChild(document.createTextNode("Review your answers"));
-    tHeader.setAttribute("class", "pAboveTable");
-    mainDiv.appendChild(tHeader);
-    var table = document.createElement("table");
-    // table.border='1px';
-    var tr = document.createElement("tr");
-    table.appendChild(tr);
-    var heading = ["Questions", "Your results", "Correct option"];
-
-    for (var i = 0; i < heading.length; i++) {
-        var th = document.createElement("th");
-        th.width = '200px';
-        th.appendChild(document.createTextNode(heading[i]));
-        tr.appendChild(th);
-        console.log(tr);
+    nextQuestion() {
+        this.currentQuestion = this.game.questions[this.game.atQuestion];
+        this.renderQuestion(
+            this.currentQuestion,
+            this.game.atQuestion++,
+            this.game.lastQuestion
+        )
     }
 
-    for (var i = 0; i < quizQuestions.length; i++) {
+    //#region DOM initial
+    createTracker() {
+        this.tracker = document.createElement("span");
+        this.board.appendChild(this.tracker);
+    }
+    createQuestion() {
+        this.question = document.createElement("span");
+        this.question.classList.add("question")
+        this.board.appendChild(this.question);
+    }
+    createAnswerBoard() {
+        this.answerBoard = document.createElement("div");
+        this.answerBoard.classList.add("answer-board")
+        this.board.appendChild(this.answerBoard);
+    }
+    createAudio() {
+        this.audio = document.createElement("audio");
+        this.audio.controls = 'controls';
+        this.board.appendChild(this.audio);
+    }
+    createButton() {
+        this.button = document.createElement("button");
+        this.button.addEventListener("click", this.checkAnswer.bind(this), false);
+        this.board.appendChild(this.button);
+    }
+    // #endregion
 
-        var tr = document.createElement('tr');
-        var td = document.createElement('td');
-        td.appendChild(document.createTextNode("Question " + (i + 1)));
-        td.setAttribute("class", "questionCol");
-        tr.appendChild(td);
-        var td = document.createElement('td');
+    // #region DOM
+    renderQuestion(questionObject) {
+        this.board.innerHTML = "";
+        this.renderQuestionStaticItems(questionObject);
 
-        var answer = quizQuestions[i].replied ? (
-            td.className = "correctCol",
-            "Correct"
-        ) : (
-                td.className = "wrongCol",
-                "Incorrect"
-            );
+        questionObject.answers = this.shuffle(questionObject.answers);
 
-        td.appendChild(document.createTextNode(answer));
-        tr.appendChild(td);
-        var td = document.createElement('td');
-        if (!quizQuestions[i].replied) {
-            var correctAns = quizQuestions[i].variants[quizQuestions[i].answer];
-            td.appendChild(document.createTextNode(correctAns));
-            td.setAttribute("class", "correctCol");
-        }
-        tr.appendChild(td);
-
-        table.appendChild(tr);
-
+        this.createAnswerBoard()
+        questionObject.answers.forEach(element => this.renderAnswerBox(Object.assign(element, { folder: questionObject.folder })))
     }
 
-    mainDiv.appendChild(table);
-    var trAll = document.getElementsByTagName("tr");
-    console.log(trAll);
-    for (var i = 1; i < trAll.length; i++) {
-        trAll[i].onclick = returnToQuestion;
-        console.log("Assigned!");
-    }
-    // var head2 = document.createElement("th");
-    // head2.appendChild(document.createTextNode("Your Result"));
-    // tr.appendChild(head2);
-    // document.body.appendChild(table);
-}
-//dynamicaally creates the question layout when clicked on any of the questions in the result table
-function createQuestionLayout() {
-    var mainDiv = document.getElementsByClassName('main')[0];
-    var wrapperDiv = document.createElement('div');
-    wrapperDiv.className = "wrapper";
-    wrapperDiv.onclick = "showDropdown";
-    mainDiv.appendChild(wrapperDiv);
-    for (var j = 0; j < 2; j++) {
-        var span = document.createElement('span');
-        wrapperDiv.appendChild(span);
-    }
-    span.innerHTML = "/ " + quizQuestions.length;
-    var ulDdown = document.createElement('ul');
-    ulDdown.className = "dropdown";
-    mainDiv.appendChild(ulDdown);
-    var pTag = document.createElement('p');
-    pTag.className = "question";
-    var ulTag = document.createElement('ul');
-    mainDiv.appendChild(pTag);
-    mainDiv.appendChild(ulTag);
-    for (var i = 0; i < 4; i++) {
-        var liTag = document.createElement('li');
-        ulTag.appendChild(liTag);
-        var liTag1 = document.createElement('li');
-        ulDdown.appendChild(liTag1);
-    }
-    var button = document.createElement('button');
-    button.innerHTML = "Back";
-    button.className = "back";
-    //goes back to the table layout when clicked
-    button.onclick = finalize;
-    mainDiv.appendChild(button);
-}
-
-function returnToQuestion() {
-    console.log(this);
-    var questionTitle = this.getElementsByClassName("questionCol")[0].innerHTML;
-    var questionNum = questionTitle[questionTitle.length - 1];
-
-
-    cleanUpTheLayout();
-    createQuestionLayout();
-    currentQuestion = quizQuestions[questionNum - 1];
-    // change currentIndex in orderto correctly display
-    // it on the new layout
-    currentIndex = questionNum - 1;
-    showCurrentQuestion();
-    var correctLiNum = quizQuestions[questionNum - 1].answer;
-    if (quizQuestions[questionNum - 1].enabled) {
-        if (quizQuestions[questionNum - 1].replied) {
-
-            document.getElementsByTagName("li")[correctLiNum + 4].className = "correct";
+    renderQuestionStaticItems(questionObject, newQuestion = true) {
+        this.createTracker();
+        this.createQuestion();
+        if (newQuestion === false) {
+            this.tracker.textContent = questionObject.number + " / " + this.game.lastQuestion;
         } else {
-            var selectedLiNum = quizQuestions[questionNum - 1].selectionOfUser;
-            document.getElementsByTagName("li")[selectedLiNum + 4].className = "wrong";
-            document.getElementsByTagName("li")[correctLiNum + 4].className = "correct";
+            this.createButton();
+            this.tracker.textContent = (this.game.atQuestion) + " / " + this.game.lastQuestion;
+            this.button.textContent = "Submit"
+            this.button.disabled = true;
+        }
+        this.question.textContent = questionObject.question;
 
+        if (questionObject.sound !== false || questionObject.sound != null || !Number.isNaN(parseInt(questionObject.sound))) {
+            if (this.audio === undefined) {
+                this.createAudio();
+            }
+            this.audio.src = "content/question-items/" + questionObject.folder + "/sound_" + parseInt(questionObject.sound) + ".mp3"
+            this.audio.load();
+        } else {
+            this.audio.remove();
+            this.audio = undefined;
         }
     }
-}
 
-function showDropdown() {
-    var dropdown = document.getElementsByClassName("dropdown")[0];
-    var dropdownItems = dropdown.getElementsByTagName("li");
-    console.log(dropdownItems);
-    for (var i = 0; i < dropdownItems.length; i++)
-        dropdownItems[i].onclick = clickOnAnyQuestionFromDropdown;
-    var display = dropdown.style.display;
-    if (display == "") {
-        dropdown.style.display = "block";
+    renderAnswerBox(answer, newQuestion = true) {
+        let pictureName = "answer_" + parseInt(answer.pictureId);
+
+        let div = document.createElement("div");
+        div.setAttribute("id", pictureName);
+        div.setAttribute("data-id", parseInt(answer.pictureId));
+        div.classList.add("answer-box")
+        if (!newQuestion) {
+            if (answer.isCorrect === true) {
+                div.classList.add("correct");
+            } else if (answer.selected === true) {
+                div.classList.add("wrong");
+            }
+        }
+        this.enableSelection = true;
+        div.addEventListener("click", this.changeSelection.bind(this), false);
+
+        let span = document.createElement("span");
+        span.textContent = answer.name;
+
+        let image = document.createElement("img");
+        image.src = "content/question-items/" + answer.folder + "/" + pictureName + ".jpg"
+
+        div.appendChild(image);
+        div.appendChild(span);
+
+        this.answerBoard.appendChild(div);
+
     }
-    else {
-        dropdown.style.display = "";
-    };
-}
 
-function hideDropdown() {
-    var dropdown = document.getElementsByClassName("dropdown")[0];
-    var dropdownItems = dropdown.getElementsByTagName("li");
-    var display = dropdown.style.display;
-    if (display == "") {
-        dropdown.style.display = "block";
+    changeSelection(event) {
+        if (this.enableSelection) {
+            let selectedId = event.currentTarget.getAttribute("id");
+            this.answerBoard.childNodes.forEach(element => {
+                let currentId = element.getAttribute("id");
+                if (currentId === selectedId) {
+                    element.classList.add("selected")
+                } else {
+                    element.classList.remove("selected")
+                }
+            })
+            this.button.disabled = false;
+        }
     }
-    else {
-        dropdown.style.display = "";
-    };
-}
 
-/*
-the number of action taken when any of the ul items is clicked on:
-getting the number of question and show the current question
-*/
-function clickOnAnyQuestionFromDropdown() {
-    console.log(this);
-    var questionNum = this.getElementsByTagName('span')[0].innerHTML;
-    currentQuestion = quizQuestions[questionNum - 1];
-    hideDropdown();
-    currentIndex = questionNum - 1;
-    showCurrentQuestion();
-}
-// function enableLiOnClickEvents() {
-// 	for (var i=0; i < liTags.length; i++) {
-// 		// console.log(liTags[i]);
-// 		liTags[i].onclick = "";
-// 	}
-// }
+    checkAnswer() {
+        if (this.answerChecked === true) {
+            if (this.finished) {
+                this.resultPage();
+            } else {
+                this.answerChecked = false;
+                this.nextQuestion();
+            }
+        } else {
 
+            let correctAnswer = this.currentQuestion.answers.find(x => x.isCorrect === true).pictureId;
+
+            this.answerBoard.childNodes.forEach(element => {
+                let currentDataId = element.getAttribute("data-id");
+                if (parseInt(currentDataId) === correctAnswer) {
+                    element.classList.add("correct");
+                }
+                if (element.getAttribute("class").indexOf("selected") > -1) {
+                    if (parseInt(currentDataId) !== correctAnswer) {
+                        element.classList.add("wrong");
+                    }
+                    this.currentQuestion.answers.find(x => x.pictureId === parseInt(currentDataId)).selected = true;
+                }
+                this.enableSelection = false;
+                element.classList.remove("selected");
+            })
+            this.currentQuestion.number = this.game.atQuestion;
+            this.game.trackRecord.push({ ...this.currentQuestion });
+            if (this.game.atQuestion === this.game.lastQuestion) {
+                this.button.textContent = "Finalize";
+                this.finished = true;
+            } else {
+                this.button.textContent = "Next Question";
+            }
+            this.answerChecked = true;
+        }
+    }
+
+    resultPage() {
+        this.board.innerHTML = "";
+        if (this.resultDiv === undefined) {
+            this.resultDiv = document.createElement("div");
+            let title = document.createElement("span");
+            title.textContent = "Review your answers";
+
+            let table = document.createElement("table");
+
+            table.appendChild(this.createTableRow(["question", "result", "your answer", "correct answer"]))
+
+            this.game.trackRecord.forEach((element, index) => {
+                let correctAnswer = element.answers.find(x => x.isCorrect === true).name;
+                let selectedAnswer = element.answers.find(x => x.selected === true).name;
+                let tr = this.createTableRow([
+                    index++,
+                    selectedAnswer === correctAnswer ? "correct" : "wrong",
+                    selectedAnswer,
+                    correctAnswer
+                ])
+
+                tr.cells[1].style.color = selectedAnswer === correctAnswer ? "#6a9d21" : "#9d2138";
+                tr.addEventListener("click", _ => { this.returnToQuestion(element) }, false)
+                table.appendChild(tr);
+            })
+
+            this.resultDiv.appendChild(title);
+            this.resultDiv.appendChild(table);
+        }
+        this.board.appendChild(this.resultDiv);
+
+    }
+
+    returnToQuestion(questionObject) {
+        this.board.innerHTML = "";
+        this.audio = undefined;
+        this.renderQuestionStaticItems(questionObject, false);
+        this.createAnswerBoard();
+        questionObject.answers.forEach(element => this.renderAnswerBox(Object.assign(element, { folder: questionObject.folder }), false))
+        
+        let back = document.createElement("button");
+        back.textContent ="back";
+        back.addEventListener("click", _ => {this.resultPage()}, false);
+        this.board.appendChild(back);
+    }
+
+    createTableRow(columns) {
+        let tr = document.createElement('tr');
+
+        for (let i = 0; i < columns.length; i++) {
+            tr.appendChild(document.createElement('td'));
+            tr.cells[i].appendChild(document.createTextNode(columns[i]));
+        }
+        return tr;
+    }
+
+
+    showError() {
+
+    }
+    // #endregion
+}
+new Game();

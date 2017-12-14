@@ -1,15 +1,9 @@
 {
-    "config": {
-        "answersRandomized": false,
-        "amountChoices": 4
-    },
     "questions": [
         {
             "question": "Welches Tier hören Sie:",
             "folder": "animals",
-            "sound": {
-                "id": 0
-            },
+            "sound": 0,
             "answers": [
                 {
                     "pictureId": 0,
@@ -36,9 +30,7 @@
         {
             "question": "Welches Tier hören Sie:",
             "folder": "animals",
-            "sound": {
-                "id": 1
-            },
+            "sound": 1,
             "answers": [
                 {
                     "pictureId": 4,
